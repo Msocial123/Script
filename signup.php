@@ -12,4 +12,5 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
     
     $username = $_POST["username"]; 
     $password = $_POST["password"]; 
-    $cpassword = $_POST["cpassword"];
+    $cpassword = $_POST["cpassword"]
+    $email     = $_POST["POST"]	    ;
